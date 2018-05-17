@@ -1,1 +1,6 @@
 build
+build-arm
+*.o
+ctranslates
+sample/data
+sample-arm/data
